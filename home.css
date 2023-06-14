@@ -38,18 +38,18 @@
 
 
 
-.navigation-links-root-class-name17 {
-  margin-right: var(--dl-space-space-threeunits);
-}
 .navigation-links-root-class-name8 {
   margin-right: var(--dl-space-space-threeunits);
 }
 
+.navigation-links-root-class-name17 {
+  margin-right: var(--dl-space-space-threeunits);
+}
 @media(max-width: 991px) {
-  .navigation-links-root-class-name17 {
+  .navigation-links-root-class-name8 {
     margin-left: var(--dl-space-space-sixunits);
   }
-  .navigation-links-root-class-name8 {
+  .navigation-links-root-class-name17 {
     margin-left: var(--dl-space-space-sixunits);
   }
 }
@@ -69,10 +69,10 @@
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
-  .navigation-links-root-class-name17 {
+  .navigation-links-root-class-name8 {
     display: none;
   }
-  .navigation-links-root-class-name8 {
+  .navigation-links-root-class-name17 {
     display: none;
   }
 }
