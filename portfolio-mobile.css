@@ -444,6 +444,9 @@
     width: 53px;
     display: flex;
   }
+  .portfolio-mobile-portofolio {
+    padding-top: var(--dl-space-space-fourunits);
+  }
   .portfolio-mobile-text08 {
     text-align: center;
   }
