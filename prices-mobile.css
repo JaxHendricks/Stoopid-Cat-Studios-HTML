@@ -725,7 +725,13 @@
     display: flex;
   }
   .prices-mobile-services-card {
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
+  }
+  .prices-mobile-services-card1 {
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
   }
   .prices-mobile-texture-work-mobile {
     display: flex;
@@ -737,14 +743,15 @@
   .prices-mobile-container05 {
     width: auto;
     align-self: center;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
   }
   .prices-mobile-container06 {
     width: auto;
     align-self: center;
-    margin-left: 0px;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
   }
   .prices-mobile-text017 {
@@ -768,7 +775,8 @@
   .prices-mobile-container07 {
     width: auto;
     align-self: center;
-    margin-left: 0px;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
   }
   .prices-mobile-unity-work-mobile {
     display: flex;
@@ -780,19 +788,22 @@
   .prices-mobile-container08 {
     width: auto;
     align-self: center;
-    margin-left: 0px;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
   }
   .prices-mobile-container09 {
     width: auto;
     align-self: center;
-    margin-left: 0px;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
   }
   .prices-mobile-container10 {
     width: auto;
     align-self: center;
-    margin-left: 0px;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
   }
   .prices-mobile-tos {
     padding-top: var(--dl-space-space-twounits);
