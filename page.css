@@ -24,7 +24,7 @@
   right: 0px;
   width: auto;
   bottom: 0px;
-  height: 380px;
+  height: auto;
   margin: auto;
   position: absolute;
   object-fit: cover;
@@ -32,6 +32,6 @@
 }
 @media(max-width: 479px) {
   .page-image {
-    height: auto;
+    height: 368px;
   }
 }
