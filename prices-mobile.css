@@ -106,8 +106,7 @@
   background-image: url('https://cdn.stoopidcatstudios.com/apps/files_sharing/publicpreview/rbmxRYJkWaJKj3r?file=/&fileId=3679&x=1920&y=1080&a=true');
 }
 .prices-mobile-services-mobile {
-  height: 517px;
-  display: none;
+  height: 841px;
   align-items: center;
   padding-top: var(--dl-space-space-sixunits);
   flex-direction: column;
@@ -192,8 +191,6 @@
   text-decoration: underline;
 }
 .prices-mobile-texture-work-mobile {
-  width: 100%;
-  display: none;
   padding: var(--dl-space-space-threeunits);
   max-width: 100%;
   align-self: center;
@@ -212,10 +209,11 @@
   display: flex;
   align-self: stretch;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-unit);
+  margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
@@ -252,10 +250,11 @@
   display: flex;
   align-self: stretch;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-unit);
+  margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
@@ -280,7 +279,7 @@
   display: flex;
   align-self: stretch;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-unit);
+  margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius8);
@@ -323,8 +322,6 @@
   border-radius: var(--dl-radius-radius-radius8);
 }
 .prices-mobile-unity-work-mobile {
-  width: 100%;
-  display: none;
   padding: var(--dl-space-space-threeunits);
   max-width: 100%;
   align-self: center;
@@ -343,10 +340,11 @@
   display: flex;
   align-self: stretch;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-unit);
+  margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);

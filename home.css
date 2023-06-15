@@ -218,7 +218,7 @@
 }
 .home-image {
   width: 100%;
-  height: 492px;
+  height: auto;
   object-fit: cover;
   border-color: var(--dl-color-scheme-darkblue);
   border-width: 0px;
