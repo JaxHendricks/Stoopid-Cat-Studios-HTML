@@ -277,8 +277,6 @@
   .home-mobile-image {
     width: 100%;
     height: 480px;
-    border-color: var(--dl-color-scheme-darkblue);
-    border-width: 1px;
     border-radius: var(--dl-radius-radius-radius8);
   }
   .home-mobile-text15 {
