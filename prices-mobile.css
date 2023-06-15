@@ -369,10 +369,11 @@
   display: flex;
   align-self: stretch;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-unit);
+  margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
@@ -403,7 +404,7 @@
   display: flex;
   align-self: stretch;
   align-items: flex-start;
-  margin-left: var(--dl-space-space-unit);
+  margin-left: 0px;
   padding-top: var(--dl-space-space-unit);
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius8);
@@ -654,9 +655,6 @@
   .prices-mobile-navlink2 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
-  }
-  .prices-mobile-services-mobile {
-    display: none;
   }
   .prices-mobile-texture-work-mobile {
     display: flex;
