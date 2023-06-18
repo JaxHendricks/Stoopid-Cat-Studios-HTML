@@ -154,6 +154,7 @@
   margin-bottom: var(--dl-space-space-twounits);
 }
 .portfolio-mobile-primary {
+  border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }

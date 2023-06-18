@@ -845,6 +845,12 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
+  .prices-mobile-text105 {
+    background-color: rgba(232, 232, 232, 0.4);
+  }
+  .prices-mobile-text113 {
+    background-color: rgba(232, 232, 232, 0.4);
+  }
   .prices-mobile-text121 {
     text-align: center;
   }

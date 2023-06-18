@@ -10,7 +10,7 @@
   text-decoration: none;
 }
 .navigation-links-navlink:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 .navigation-links-navlink1 {
   cursor: pointer;
@@ -19,7 +19,7 @@
   text-decoration: none;
 }
 .navigation-links-navlink1:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 .navigation-links-navlink2 {
   cursor: pointer;
@@ -28,7 +28,7 @@
   text-decoration: none;
 }
 .navigation-links-navlink2:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 .navigation-links-link {
   cursor: pointer;
@@ -37,7 +37,7 @@
   text-decoration: none;
 }
 .navigation-links-link:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 
 

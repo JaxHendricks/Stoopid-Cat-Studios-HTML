@@ -10,7 +10,7 @@
   text-decoration: none;
 }
 .navigation-links-navlink:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 .navigation-links-navlink1 {
   cursor: pointer;
@@ -19,7 +19,7 @@
   text-decoration: none;
 }
 .navigation-links-navlink1:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 .navigation-links-navlink2 {
   cursor: pointer;
@@ -28,7 +28,7 @@
   text-decoration: none;
 }
 .navigation-links-navlink2:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 .navigation-links-link {
   cursor: pointer;
@@ -37,7 +37,7 @@
   text-decoration: none;
 }
 .navigation-links-link:hover {
-  color: var(--dl-color-scheme-brown);
+  color: #6ea0c3;
 }
 
 
@@ -629,7 +629,7 @@
   margin-bottom: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-unit);
-  background-color: rgba(183, 183, 183, 0.4);
+  background-color: rgba(232, 232, 232, 0.4);
 }
 .prices-text103 {
   font-size: 30px;
@@ -648,7 +648,7 @@
   margin-bottom: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-unit);
-  background-color: rgba(183, 183, 183, 0.4);
+  background-color: rgba(232, 232, 232, 0.4);
 }
 .prices-text111 {
   font-size: 30px;
