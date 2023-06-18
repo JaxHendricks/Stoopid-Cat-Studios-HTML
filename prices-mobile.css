@@ -97,6 +97,23 @@
 .prices-mobile-navlink2:hover {
   color: var(--dl-color-scheme-brown);
 }
+.prices-mobile-link {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 41px;
+  text-decoration: none;
+}
+.prices-mobile-link:hover {
+  color: var(--dl-color-scheme-brown);
+}
+.prices-mobile-text001 {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 41px;
+}
+.prices-mobile-text001:hover {
+  color: var(--dl-color-scheme-brown);
+}
 .prices-mobile-main {
   width: 100%;
   display: flex;
@@ -114,7 +131,7 @@
   justify-content: flex-start;
   background-color: var(--dl-color-scheme-black80);
 }
-.prices-mobile-text001 {
+.prices-mobile-text003 {
   color: var(--dl-color-scheme-white);
   font-size: 30px;
   font-style: normal;
@@ -138,16 +155,16 @@
   width: 24px;
   height: 24px;
 }
-.prices-mobile-text004 {
+.prices-mobile-text006 {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.prices-mobile-text005 {
+.prices-mobile-text007 {
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.prices-mobile-link {
+.prices-mobile-link1 {
   cursor: pointer;
   text-decoration: underline;
 }
@@ -177,16 +194,16 @@
   height: auto;
   object-fit: cover;
 }
-.prices-mobile-text006 {
+.prices-mobile-text008 {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.prices-mobile-text007 {
+.prices-mobile-text009 {
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.prices-mobile-link1 {
+.prices-mobile-link2 {
   cursor: pointer;
   text-decoration: underline;
 }
@@ -197,7 +214,7 @@
   flex-direction: column;
   background-color: rgba(144, 149, 167, 0.6);
 }
-.prices-mobile-text008 {
+.prices-mobile-text010 {
   font-size: 3rem;
   align-self: center;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -218,22 +235,22 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
 }
-.prices-mobile-text010 {
-  font-size: 25px;
-}
-.prices-mobile-text011 {
-  font-size: 25px;
-}
 .prices-mobile-text012 {
   font-size: 25px;
 }
 .prices-mobile-text013 {
-  font-size: 20px;
+  font-size: 25px;
 }
 .prices-mobile-text014 {
   font-size: 25px;
 }
 .prices-mobile-text015 {
+  font-size: 20px;
+}
+.prices-mobile-text016 {
+  font-size: 25px;
+}
+.prices-mobile-text017 {
   font-size: 25px;
 }
 .prices-mobile-image1 {
@@ -259,10 +276,10 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
 }
-.prices-mobile-text017 {
+.prices-mobile-text019 {
   font-size: 25px;
 }
-.prices-mobile-text020 {
+.prices-mobile-text022 {
   font-size: 20px;
 }
 .prices-mobile-image2 {
@@ -287,31 +304,31 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
 }
-.prices-mobile-text024 {
-  font-size: 25px;
-}
-.prices-mobile-text025 {
-  font-size: 25px;
-}
 .prices-mobile-text026 {
   font-size: 25px;
 }
 .prices-mobile-text027 {
-  font-size: 20px;
-  line-height: 1.3;
+  font-size: 25px;
 }
 .prices-mobile-text028 {
-  font-size: 20px;
-  line-height: 1.3;
+  font-size: 25px;
 }
 .prices-mobile-text029 {
   font-size: 20px;
   line-height: 1.3;
 }
 .prices-mobile-text030 {
-  font-size: 25px;
+  font-size: 20px;
+  line-height: 1.3;
 }
 .prices-mobile-text031 {
+  font-size: 20px;
+  line-height: 1.3;
+}
+.prices-mobile-text032 {
+  font-size: 25px;
+}
+.prices-mobile-text033 {
   font-size: 25px;
 }
 .prices-mobile-image3 {
@@ -328,7 +345,7 @@
   flex-direction: column;
   background-color: rgba(87, 90, 100, 0.6);
 }
-.prices-mobile-text032 {
+.prices-mobile-text034 {
   font-size: 3rem;
   align-self: center;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -349,10 +366,10 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
 }
-.prices-mobile-text035 {
+.prices-mobile-text037 {
   font-size: 25px;
 }
-.prices-mobile-text039 {
+.prices-mobile-text041 {
   font-size: 20px;
 }
 .prices-mobile-image4 {
@@ -378,16 +395,16 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
 }
-.prices-mobile-text042 {
+.prices-mobile-text044 {
   font-size: 25px;
 }
-.prices-mobile-text046 {
-  font-size: 20px;
-}
-.prices-mobile-text047 {
-  font-size: 20px;
-}
 .prices-mobile-text048 {
+  font-size: 20px;
+}
+.prices-mobile-text049 {
+  font-size: 20px;
+}
+.prices-mobile-text050 {
   font-size: 20px;
 }
 .prices-mobile-image5 {
@@ -412,28 +429,28 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(255, 255, 255, 0.4);
 }
-.prices-mobile-text052 {
-  font-size: 25px;
-}
-.prices-mobile-text053 {
-  font-size: 25px;
-}
 .prices-mobile-text054 {
   font-size: 25px;
 }
 .prices-mobile-text055 {
-  font-size: 20px;
+  font-size: 25px;
 }
 .prices-mobile-text056 {
-  font-size: 20px;
+  font-size: 25px;
 }
 .prices-mobile-text057 {
   font-size: 20px;
 }
 .prices-mobile-text058 {
-  font-size: 25px;
+  font-size: 20px;
 }
 .prices-mobile-text059 {
+  font-size: 20px;
+}
+.prices-mobile-text060 {
+  font-size: 25px;
+}
+.prices-mobile-text061 {
   font-size: 25px;
 }
 .prices-mobile-image6 {
@@ -452,17 +469,17 @@
   justify-content: space-between;
   background-color: rgba(255, 255, 255, 0.5);
 }
-.prices-mobile-text060 {
+.prices-mobile-text062 {
   font-size: 3rem;
   text-align: center;
 }
-.prices-mobile-text063 {
+.prices-mobile-text065 {
   max-width: var(--dl-size-size-maxwidth);
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.prices-mobile-text064 {
+.prices-mobile-text066 {
   font-size: 30px;
   font-family: Fira Sans;
   font-weight: 400;
@@ -470,15 +487,15 @@
   letter-spacing: 0.01em;
   text-decoration: none;
 }
-.prices-mobile-text078 {
+.prices-mobile-text080 {
   font-size: 30px;
   font-family: Fira Sans;
 }
-.prices-mobile-text087 {
+.prices-mobile-text089 {
   font-size: 30px;
   font-family: Fira Sans;
 }
-.prices-mobile-text097 {
+.prices-mobile-text099 {
   font-style: italic;
   font-weight: 700;
   text-transform: uppercase;
@@ -492,7 +509,7 @@
   justify-content: space-between;
   background-color: rgba(217, 217, 217, 0.4);
 }
-.prices-mobile-text100 {
+.prices-mobile-text102 {
   font-size: 3rem;
   text-align: center;
 }
@@ -504,7 +521,7 @@
   align-items: flex-start;
   justify-content: center;
 }
-.prices-mobile-text103 {
+.prices-mobile-text105 {
   max-width: var(--dl-size-size-maxwidth);
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
@@ -517,48 +534,48 @@
   padding-bottom: var(--dl-space-space-unit);
   background-color: rgba(183, 183, 183, 0.4);
 }
-.prices-mobile-text104 {
-  font-size: 30px;
-}
-.prices-mobile-link2 {
-  text-decoration: underline;
-}
-.prices-mobile-text111 {
-  max-width: var(--dl-size-size-maxwidth);
-  margin-top: var(--dl-space-space-twounits);
-  text-align: center;
-  margin-left: var(--dl-space-space-unit);
-  padding-top: var(--dl-space-space-unit);
-  padding-left: var(--dl-space-space-unit);
-  border-radius: var(--dl-radius-radius-radius8);
-  margin-bottom: var(--dl-space-space-twounits);
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-unit);
-  background-color: rgba(183, 183, 183, 0.4);
-}
-.prices-mobile-text112 {
+.prices-mobile-text106 {
   font-size: 30px;
 }
 .prices-mobile-link3 {
   text-decoration: underline;
 }
+.prices-mobile-text113 {
+  max-width: var(--dl-size-size-maxwidth);
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  margin-left: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-unit);
+  background-color: rgba(183, 183, 183, 0.4);
+}
+.prices-mobile-text114 {
+  font-size: 30px;
+}
+.prices-mobile-link4 {
+  text-decoration: underline;
+}
 .prices-mobile-footer {
   background-color: rgba(217, 217, 217, 0.3);
 }
-.prices-mobile-text119 {
+.prices-mobile-text121 {
   align-self: center;
-}
-.prices-mobile-text122 {
-  font-weight: 700;
 }
 .prices-mobile-text124 {
   font-weight: 700;
 }
-.prices-mobile-text125 {
+.prices-mobile-text126 {
+  font-weight: 700;
+}
+.prices-mobile-text127 {
   font-style: normal;
   font-weight: 400;
 }
-.prices-mobile-link4 {
+.prices-mobile-link5 {
   font-weight: 700;
   text-decoration: underline;
 }
@@ -567,20 +584,20 @@
     width: 35px;
     height: auto;
   }
-  .prices-mobile-text121 {
+  .prices-mobile-text123 {
     font-style: normal;
-    font-weight: 700;
-  }
-  .prices-mobile-text122 {
     font-weight: 700;
   }
   .prices-mobile-text124 {
     font-weight: 700;
   }
-  .prices-mobile-text125 {
+  .prices-mobile-text126 {
     font-weight: 700;
   }
-  .prices-mobile-link4 {
+  .prices-mobile-text127 {
+    font-weight: 700;
+  }
+  .prices-mobile-link5 {
     font-weight: 700;
   }
 }
@@ -625,13 +642,13 @@
     align-self: center;
     margin-left: 0px;
   }
-  .prices-mobile-text063 {
+  .prices-mobile-text065 {
     max-width: 100%;
   }
-  .prices-mobile-text103 {
+  .prices-mobile-text105 {
     max-width: 100%;
   }
-  .prices-mobile-text111 {
+  .prices-mobile-text113 {
     max-width: 100%;
   }
 }
@@ -653,6 +670,14 @@
     margin-bottom: var(--dl-space-space-unit);
   }
   .prices-mobile-navlink2 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .prices-mobile-link {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .prices-mobile-text001 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
   }
@@ -698,7 +723,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .prices-mobile-text063 {
+  .prices-mobile-text065 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
@@ -706,11 +731,11 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .prices-mobile-text103 {
+  .prices-mobile-text105 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .prices-mobile-text111 {
+  .prices-mobile-text113 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
@@ -719,6 +744,9 @@
   .prices-mobile-max-width {
     width: 53px;
     display: flex;
+  }
+  .prices-mobile-link {
+    text-decoration: none;
   }
   .prices-mobile-services-mobile {
     height: 803px;
@@ -754,22 +782,22 @@
     margin-right: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
   }
-  .prices-mobile-text017 {
-    font-size: 25px;
-  }
-  .prices-mobile-text018 {
-    font-size: 25px;
-  }
   .prices-mobile-text019 {
     font-size: 25px;
   }
   .prices-mobile-text020 {
-    font-size: 20px;
+    font-size: 25px;
   }
   .prices-mobile-text021 {
     font-size: 25px;
   }
   .prices-mobile-text022 {
+    font-size: 20px;
+  }
+  .prices-mobile-text023 {
+    font-size: 25px;
+  }
+  .prices-mobile-text024 {
     font-size: 25px;
   }
   .prices-mobile-container07 {
@@ -817,7 +845,7 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .prices-mobile-text119 {
+  .prices-mobile-text121 {
     text-align: center;
   }
 }
