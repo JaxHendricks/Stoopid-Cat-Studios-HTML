@@ -171,7 +171,6 @@
   background-color: rgba(0, 0, 0, 0.1);
 }
 .button-secondary:hover {
-  color: var(--dl-color-scheme-white);
   background-color: rgba(217, 217, 217, 0.7);
 }
 .button-secondary-white {
